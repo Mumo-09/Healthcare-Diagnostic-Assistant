@@ -138,7 +138,7 @@ Potential improvements include:
 
 ## Author
 
-**Kache**
+**Jemimah Mumo**
 
 Computer Science Student | Interested in Data Science and Healthcare AI
 
